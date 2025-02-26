@@ -19,7 +19,8 @@ def S2_a():
     txt = "More results from text..."
     substr = txt[4:12]
     print(substr)
-    print(substr.strip()) 
+    a = substr.strip()
+    print(a) 
 
 def S2_b():
     txt = "More results from text..."
